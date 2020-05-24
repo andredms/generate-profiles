@@ -1,7 +1,5 @@
 # Profile Generator
 
-Date last modified: 28/10/19
-
 A program used in-conjunction with socialsim. It generates random, realistic social media profiles with events included for posting and following. Outputs a formatted .txt file.
 
 # Usage
